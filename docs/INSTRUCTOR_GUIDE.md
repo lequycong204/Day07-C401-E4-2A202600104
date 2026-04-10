@@ -2,7 +2,7 @@
 
 Hướng dẫn này dành cho giảng viên để dẫn dắt buổi lab 4.5 giờ. Lab chia làm 2 pha: **cá nhân** (code) và **nhóm** (so sánh strategy, học từ nhau).
 
----
+--- 
 
 ## Mục Tiêu Học Tập Cốt Lõi
 
